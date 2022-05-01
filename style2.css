@@ -1,0 +1,31 @@
+.first-heading{
+    float: right;
+}
+
+.first-left > input{
+    background: rgb(73, 73, 153);
+    padding: 15px 5px;
+    width: 20em;
+    border: none;
+    outline: none;
+    background: rgb(177, 207, 241);
+    border-radius: 7px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.right-upper{
+    /* display: flex;
+    float: right; */
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.right-upper > a{
+    padding: 15px;
+
+}
